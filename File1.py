@@ -1,2 +1,2 @@
 print("Hello, world V3!")
-print("This is branching")
+print("This is merging of the branches")
